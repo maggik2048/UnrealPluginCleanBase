@@ -1,0 +1,15 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MySpartaLog",
+	"Description": "Test Plugin",
+	"Category": "Custom",
+	"Modules": [
+		{
+			"Name": "MySpartaLog",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
